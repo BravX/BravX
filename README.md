@@ -14,8 +14,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-## Reach Me
-<a href = https://www.linkedin.com/in/rodrigo-bravo-4276b721a/> <img width = 55px src = https://github.com/dheereshagrwal/colored-icons/blob/master/svg/linkedin.svg> </a>&emsp;
-<a href = https://www.instagram.com/rodrigobravo64/> <img width = 48px src = https://github.com/dheereshagrwal/colored-icons/blob/master/svg/instagram.svg> </a>&emsp;
-<a href = https://github.com/BravX> <img width = 50px src = https://github.com/dheereshagrwal/colored-icons/blob/master/svg/github-light.svg> </a>&emsp;
